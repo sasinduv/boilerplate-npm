@@ -13,7 +13,7 @@
 	},
 	"version": "1.0.0",
 	"description": "A project that something awesome",
-	"keywords": [],
+	"keywords": [ "descriptive", "related", "words" ],
 	"author": "Sasindu Gihan",
 	"license": "ISC",
 	"bugs": {
